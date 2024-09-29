@@ -1,6 +1,8 @@
 # edunovo
 Edunova Fullstack Development Internship assignment
 
+Live link: https://edunovo.onrender.com/
+
 # API Documentation
 
 ## Books Routes
